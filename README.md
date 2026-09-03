@@ -234,3 +234,7 @@ Do not commit your local `.env` file or database credentials to the repository.
 FocusFlow demonstrates a complete full-stack application workflow, connecting a React frontend to a Flask REST API and PostgreSQL database with authenticated user access and persistent data management.
 
 The project demonstrates the development, testing, and deployment of a functional productivity management application using modern web development technologies.
+
+## Author
+
+**Shanice Ambani**
